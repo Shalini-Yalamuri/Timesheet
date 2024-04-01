@@ -1,0 +1,155 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E122" />
+          <option value="E303" />
+          <option value="E225" />
+          <option value="E501" />
+          <option value="E117" />
+          <option value="E302" />
+          <option value="W605" />
+          <option value="E231" />
+          <option value="W292" />
+          <option value="E402" />
+          <option value="E301" />
+          <option value="E111" />
+          <option value="E304" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N812" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.KMeans" />
+          <option value="main.filename" />
+          <option value="Main.PassangerDetails.Main" />
+          <option value="Main.CancellationandRefund.mysql" />
+          <option value="pythonjson.bigmartsale_string" />
+          <option value="jsonex2.page" />
+          <option value="jsonex2.var" />
+          <option value="jsonex2.true" />
+          <option value="jsonex2.define" />
+          <option value="jsonex2.details" />
+          <option value="utils" />
+          <option value="Main.__init__" />
+          <option value="jsonvalidation.request" />
+          <option value="jsonvalidation.pd" />
+          <option value="jsonvalidation.data" />
+          <option value="jsonvalidation.jsonify" />
+          <option value="jsonvalidation.*" />
+          <option value="Main.connection.my_cursor" />
+          <option value="Main.Connection" />
+          <option value="functions.phno" />
+          <option value="functions.*" />
+          <option value="ChildImpl.pythontesting" />
+          <option value="ChildImpl.shalini" />
+          <option value="chromedemo5.*" />
+          <option value="list.click" />
+          <option value="list.send_keys" />
+          <option value="alterts.alterttext" />
+          <option value="tests.test_etn.*" />
+          <option value="utilities.BaseClass" />
+          <option value="utilies.*" />
+          <option value="checkoutpage.pageObjects" />
+          <option value="HomePage.pageObjects" />
+          <option value="checkoutpage.ConfirmPage" />
+          <option value="pageObjects.*" />
+          <option value="PythonSelFramework.tests.test_e2e.pageObjects" />
+          <option value="PythonSelFramework.tests.test_HomePage.pageObjects" />
+          <option value="PythonSelFramework.tests.test_HomePage.utilities" />
+          <option value="PythonSelFramework.tests.test_HomePage.TestData" />
+          <option value="PythonSelFramework.pageObjects.HomePage.pageObjects" />
+          <option value="PythonSelFramework.tests.test_e2e.utilities" />
+          <option value="PythonSelFramework.tests.test_e2e.*" />
+          <option value="TestData.HomePageData.test_HomePage_data" />
+          <option value="PythonSelFramework.pageObjects.CheckoutPage.pageObjects" />
+          <option value="PythonSelFramework.pageObjects.HomePage.CheckOutPage" />
+          <option value="testcases.conftest.webdriver_manager" />
+          <option value="testcases.conftest.get" />
+          <option value="testcases.conftest.browser" />
+          <option value="chromedriver.driver" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_id" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_xpath" />
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.find_element_by_class_name" />
+          <option value="chromedemo3.afternoon" />
+          <option value="utilities.BaseClass.BaseClass" />
+          <option value="test.cases" />
+          <option value="testcases.test_e2e.Email" />
+          <option value="testcases.test_e2e.Password" />
+          <option value="testcases.test_e2e.INVALID_PASSWORD" />
+          <option value="tuple.text" />
+          <option value="testcases.Application.Email" />
+          <option value="testcases.Application.Password" />
+          <option value="testcases.Application.*" />
+          <option value="module.loginmodule.Loginmodule.*" />
+          <option value="testcases.sdgfg.webdriver_manager" />
+          <option value="testcases.test_e2e.driver" />
+          <option value="module.forgotpasswordmodule.forgotpasswordPage" />
+          <option value="testcases.test_e2e.password" />
+          <option value="conftest" />
+          <option value="utilities.BaseClass.Email" />
+          <option value="utilities.BaseClass.*" />
+          <option value="module.loginmodule.getINVALID_PASSWORD" />
+          <option value="module.forgotpasswordmodule.self" />
+          <option value="module.forgotpasswordmodule.ForgotpasswordPage" />
+          <option value="module.forgotpasswordmodule.ForgotPasswordModule" />
+          <option value="Modules.AdminModule.APPLICATION_LOGIN_URL" />
+          <option value="Utils.ApplicationConstants.APPLICATION_LOGIN_URL" />
+          <option value="testcases.test_e2e.apppage" />
+          <option value="testcases.test_standford.VALID_EMAILID" />
+          <option value="Pages.LoginPage.LoginPage.email_id" />
+          <option value="bc" />
+          <option value="Pages.LoginPage.*" />
+          <option value="Modules.s.validate_in_valid_login" />
+          <option value="AutomationFrameWorkDesign.Modules.AdminsModule.Pages" />
+          <option value="AutomationFrameWorkDesign.Modules.AdminsModule.ADMIN_NAME" />
+          <option value="AutomationFrameWorkDesign.Modules.AdminsModule.ADMIN_EMAIL1" />
+          <option value="AutomationFrameWorkDesign.Modules.ValidLogin.Pages" />
+          <option value="AutomationFrameWorkDesign.Modules.ValidLogin.parameters_calling" />
+          <option value="AutomationFrameWorkDesign.Modules.ValidLogin.VALID_EMAILID" />
+          <option value="AutomationFrameWorkDesign.Modules.ValidLogin.PASSWORD" />
+          <option value="AutomationFrameWorkDesign.Utils.test_stanford.Pages" />
+          <option value="AutomationFrameWorkDesign.Modules.AdminsModule.Modules" />
+          <option value="AutomationFrameWorkDesign.Modules.AdminsModule.*" />
+          <option value="AutomationFrameWorkDesign.Modules.ValidLogin.Utils" />
+          <option value="AutomationFrameWorkDesign.Modules.ValidLogin.driver" />
+          <option value="AutomationFrameWorkDesign.Utils.test_stanford.LoginPage" />
+          <option value="AutomationFrameWorkDesign.Module.AdminsModule.*" />
+          <option value="AutomationFrameWorkDesign.tests.test_stanford.LoginPage" />
+          <option value="AutomationFrameWorkDesign.tests.test_stanford.*" />
+          <option value="AutomationFrameWorkDesign.Module.ValidLoginModule.*" />
+          <option value="tests.test_standford.*" />
+          <option value="AutomationFrameWorkDesign.tests" />
+          <option value="AutomationFrameWorkDesign.tests.test_standford.*" />
+          <option value="AutomationFrameWorkDesign.Pages.LoginPage.*" />
+          <option value="tuple.send_keys" />
+          <option value="bytes.*" />
+          <option value="AutomationFrameWorkDesign.tests.test_loginpage.*" />
+          <option value="AutomationFrameWorkDesign.Pages.BasePage.BasePage.is_visible" />
+          <option value="AutomationFrameWorkDesign.Pages.Locations.Locations.*" />
+          <option value="chromedriver_autoinstaller" />
+          <option value="selenium.webdriver.common.by.By.linkText" />
+          <option value="tuple.*" />
+          <option value="pages.Loginpage" />
+          <option value="features.steps.loginsteps.*" />
+          <option value="pages.loginpage" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
